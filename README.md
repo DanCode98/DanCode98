@@ -11,21 +11,47 @@ Desarrollador Fullstack con más de 2 años de experiencia creando soluciones we
 - Vue.js · React.js · Bootstrap · AJAX · jQuery
 
 ### ⚙️ Backend
-- Node.js · Express.js
-- Python · Flask
-- PHP · Java · Spring Boot
-- ElectronJS · PyQT
+- Node.js · Express.js · ElectronJS 
+- Python · Flask · PyQT
+- PHP 
+- Java · Spring Boot
 
 ### 🛢️ Bases de Datos
-- MySQL · PostgreSQL · SQLite · MariaDB
+- MySQL
+- PostgreSQL
+- SQLite
+- MariaDB
+- SQL Server
+- Oracle DB
 
 ### 🧰 DevOps y Herramientas
-- Git · GitHub · Bitbucket · Postman
-- AWS · Docker · Linux (Ubuntu)
-- Visual Studio Code · IntelliJ · VirtualBox
+- Git 
+- GitHub
+- Bitbucket
+- Postman
+- AWS
+- Docker
+- VirtualBox
+- Jira
+- Microsoft Teams
+- Microsoft Office
+
+### 🧰 Sistemas operativos
+- Linux (Ubuntu, Debian, Rapsian, SteamOs)
+- Windows (XP, Vista, 7, 8.1, 10, 11, Server 2012)
+
+### 🧰 IDEs y Editores de Codigo
+- Visual Studio Code
+- Sublime
+- Brackets
+- IntelliJ
+- Eclipse
+- Android Studio
 
 ### 📐 Metodologías
-- SCRUM · Kanban · Jira · Modelo en Cascada
+- SCRUM 
+- Kanban
+-  Modelo en Cascada
 
 ### 🌐 Otros conocimientos
 - API RESTful
