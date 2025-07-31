@@ -6,60 +6,51 @@ Desarrollador Fullstack con más de 2 años de experiencia creando soluciones we
 
 ## 🚀 Stack Técnico
 
-### 🖼️ Frontend
+### 👨‍💻 Frontend
 - HTML5 · CSS3 · JavaScript (ES6+)
-- Vue.js · React.js · Bootstrap · AJAX · jQuery
+- **Frameworks/Librerías:** Vue.js · React.js · Bootstrap
+- **Otros:** AJAX · jQuery *(uso puntual o en proyectos legacy)*
 
 ### ⚙️ Backend
-- Node.js · Express.js · ElectronJS 
-- Python · Flask · PyQT
-- PHP 
-- Java · Spring Boot
+- Node.js · Express.js  
+- Python · Flask  
+- Java · Spring Boot  
+- PHP *(uso básico o legacy)*  
+- ElectronJS *(aplicaciones de escritorio)*  
+- PyQT *(interfaces gráficas con Python)*
 
 ### 🛢️ Bases de Datos
-- MySQL
-- PostgreSQL
-- SQLite
-- MariaDB
-- SQL Server
-- Oracle DB
+- PostgreSQL · MySQL · SQLite  
+- MariaDB · SQL Server  
+- Oracle DB *(conocimiento general)*
 
-### 🧰 DevOps y Herramientas
-- Git 
-- GitHub
-- Bitbucket
-- Postman
-- AWS
-- Docker
-- VirtualBox
-- Jira
-- Microsoft Teams
-- Microsoft Office
+### ☁️ DevOps y Herramientas
+- Git · GitHub · Bitbucket  
+- AWS *(uso básico/intermedio)*  
+- Postman · VirtualBox  
+- Jira · Microsoft Teams
 
-### 🧰 Sistemas operativos
-- Linux (Ubuntu, Debian, Rapsian, SteamOs)
-- Windows (XP, Vista, 7, 8.1, 10, 11, Server 2012)
+### 💻 Sistemas Operativos
+- Linux (Ubuntu, Debian, Raspbian, SteamOS)  
+- Windows (7, 10, 11, Server 2012)
 
-### 🧰 IDEs y Editores de Codigo
-- Visual Studio Code
-- Sublime
-- Brackets
-- IntelliJ
-- Eclipse
-- Android Studio
+### 🧰 IDEs y Editores
+- Visual Studio Code · IntelliJ IDEA · Android Studio  
+- Sublime Text · Eclipse
 
-### 📐 Metodologías
-- SCRUM 
-- Kanban
--  Modelo en Cascada
+### 📐 Metodologías de Trabajo
+- SCRUM · Kanban  
+- Modelo en Cascada *(experiencia previa o en entornos tradicionales)*
 
-### 🌐 Otros conocimientos
-- API RESTful
-- Diseño UI/UX básico
-- Automatización de tareas administrativas
-- Desarrollo de sistemas multiplataforma (desktop/web)
+### 🌐 Otros Conocimientos
+- APIs RESTful  
+- Automatización de procesos administrativos  
+- Principios básicos de diseño UI/UX  
+- Integración de servicios externos
 
----
+## 🚀 Objetivo
+
+Seguir desarrollando soluciones tecnológicas que generen impacto real en los procesos y la experiencia del usuario, utilizando herramientas modernas y manteniendo una mentalidad de mejora continua.
 
 ## 🧠 Enfoque
 
