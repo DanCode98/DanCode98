@@ -65,7 +65,7 @@ Mi trabajo se centra en la entrega de resultados concretos:
 
 📍 Zacatecas, México  
 📧 rocastdan@gmail.com  
-🔗 [GitHub](https://github.com/tuusuario)  
+🔗 [GitHub](https://github.com/DanCode98?tab=repositories)  
 🔗 [LinkedIn](https://www.linkedin.com/in/dancast98)  
 🌐 [Portafolio](https://tuportafolio.com)
 
