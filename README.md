@@ -67,7 +67,7 @@ Mi trabajo se centra en la entrega de resultados concretos:
 📧 rocastdan@gmail.com  
 🔗 [GitHub](https://github.com/DanCode98?tab=repositories)  
 🔗 [LinkedIn](https://www.linkedin.com/in/dancast98)  
-🌐 [Portafolio](https://tuportafolio.com)
+🌐 [Portafolio](https://dancode98.github.io/portafolio/)
 
 ---
 
